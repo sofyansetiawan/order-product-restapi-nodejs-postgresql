@@ -1,0 +1,29 @@
+[
+    {
+        "customer_name": "Sofyan",
+        "email": "sofyan@gmail.com",
+        "phone_number": "081000000000",
+        "dob": "2021-03-03",
+        "sex": true,
+        "salt": 10,
+        "password": "sofyan2021"
+    },
+    {
+        "customer_name": "Setiawan",
+        "email": "setiawan@gmail.com",
+        "phone_number": "189222222222",
+        "dob": "2021-03-03",
+        "sex": true,
+        "salt": 10,
+        "password": "setiawan2021"
+    },
+    {
+        "customer_name": "Juniordev",
+        "email": "juniodev@gmail.com",
+        "phone_number": "185999999999",
+        "dob": "2021-01-30",
+        "sex": true,
+        "salt": 10,
+        "password": "juniordev2021"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "product_name": "Laptop",
+        "basic_price": 1000000
+    },
+    {
+        "product_name": "Phone",
+        "basic_price": 500000
+    },
+    {
+        "product_name": "Camera",
+        "basic_price": 300000
+    },
+    {
+        "product_name": "Tablet",
+        "basic_price": 400000
+    },
+    {
+        "product_name": "PC Gaming",
+        "basic_price": 300000
+    }
+]

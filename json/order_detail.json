@@ -1,0 +1,22 @@
+[
+    {
+        "order_id": 1,
+        "product_id": 3,
+        "qty": 1000
+    },
+    {
+        "order_id": 2,
+        "product_id": 1,
+        "qty": 33
+    },
+    {
+        "order_id": 3,
+        "product_id": 2,
+        "qty": 7
+    },
+    {
+        "order_id": 4,
+        "product_id": 4,
+        "qty": 700
+    }
+]

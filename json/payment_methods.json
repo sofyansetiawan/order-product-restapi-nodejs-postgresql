@@ -1,0 +1,14 @@
+[
+    {
+        "method_name": "Cash",
+        "code": "PR01"
+    },
+    {
+        "method_name": "Transfer",
+        "code": "PR02"
+    },
+    {
+        "method_name": "Kredit",
+        "code": "PR03"
+    }
+]
