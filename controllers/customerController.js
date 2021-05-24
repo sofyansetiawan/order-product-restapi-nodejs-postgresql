@@ -7,6 +7,7 @@ class CustomerController {
         const { email, password } = req.body;
         Customer.findEmail(email, (err, result) => {
             if(err) return res.status(400).json({ message: "Invalid Email/Password" })
+            console.log(result)
             if(!result || !bcrypt.comparePassword(password, result.password)){
                 res.status(400).json({ message: "Invalid Email/Password" })
             }
