@@ -1,25 +1,25 @@
 [
     {
         "customer_id": 1,
-        "order_number": "12-34B-0UUI",
+        "order_number": "",
         "order_date": "2021-03-02",
         "payment_method_id": 2
     },
     {
         "customer_id": 2,
-        "order_number": "P9-776-DE17",
+        "order_number": "",
         "order_date": "2021-01-07",
         "payment_method_id": 1
     },
     {
         "customer_id": 1,
-        "order_number": "99-0DE3-04MN",
+        "order_number": "",
         "order_date": "2021-04-23",
         "payment_method_id": 3
     },
     {
         "customer_id": 3,
-        "order_number": "45-9U7I-12AA",
+        "order_number": "",
         "order_date": "2021-01-07",
         "payment_method_id": 2
     }

@@ -8,8 +8,8 @@ const createCustomers = `
     CREATE TABLE IF NOT EXISTS "Customers" (
         "customer_id" SERIAL PRIMARY KEY,
         "customer_name" VARCHAR(50) NOT NULL,
-        "phone_number" VARCHAR(20) NOT NULL,
-        "email" VARCHAR(50) NOT NULL,
+        "phone_number" VARCHAR(20) UNIQUE NOT NULL,
+        "email" VARCHAR(50) UNIQUE NOT NULL,
         "dob" DATE NOT NULL,
         "sex" BOOLEAN NOT NULL,
         "salt" VARCHAR(80) NOT NULL,
